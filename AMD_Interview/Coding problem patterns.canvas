@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"658516bfe03729bd","type":"text","text":"Recursion","x":-609,"y":-199,"width":149,"height":59},
+		{"id":"3dba112507a1baa0","type":"text","text":"Box Stacking with different dimensions","x":-610,"y":-420,"width":150,"height":156},
+		{"id":"b29be25de788fb88","type":"text","text":"jar filling problem","x":-440,"y":-298,"width":139,"height":68},
+		{"id":"f5bf03d86b84385e","type":"text","text":"Tower of Hanoi","x":-800,"y":-351,"width":177,"height":50},
+		{"id":"1556924cf9d9cb73","type":"text","text":"Reverse a Doubly LL using recursion\nhttps://www.geeksforgeeks.org/reverse-doubly-linked-list-using-recursion/","x":-860,"y":-80,"width":237,"height":180},
+		{"id":"b1ce528764166fbe","type":"text","text":"Sort a stack using recursion\nhttps://www.geeksforgeeks.org/sort-a-stack-using-recursion/","x":-900,"y":-264,"width":200,"height":143},
+		{"id":"e2789b6f2245261a","type":"text","text":"https://www.geeksforgeeks.org/word-break-problem-dp-32/","x":-592,"y":-60,"width":264,"height":91},
+		{"id":"495cba454880ae34","type":"text","text":"https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/","x":-370,"y":-199,"width":258,"height":111},
+		{"id":"b2c7100ebfa3f150","type":"text","text":"Find the longest distance between root to a leaf node","x":-160,"y":-468,"width":289,"height":78},
+		{"id":"8a358ec9855c6b58","type":"text","text":"Binary search and BST","x":-126,"y":-301,"width":220,"height":61},
+		{"id":"23a18b2cd1a74191","type":"text","text":"Change a bit at certain position","x":460,"y":-74,"width":250,"height":60},
+		{"id":"a937c0a79f8c5d3b","type":"text","text":"Bit Manipulation","x":160,"y":-74,"width":250,"height":60},
+		{"id":"eca256e572110105","type":"text","text":"unions, Byte reversal","x":460,"y":-181,"width":250,"height":60},
+		{"id":"da4f3192ee8f0eb6","type":"text","text":"Endianness reverse using bitwise operator","x":160,"y":-229,"width":250,"height":60},
+		{"id":"bc9620e85030660b","x":160,"y":61,"width":250,"height":79,"type":"text","text":"https://leetcode.com/problem-list/bit-manipulation/"}
+	],
+	"edges":[
+		{"id":"4d52101c1bdc3c50","fromNode":"658516bfe03729bd","fromSide":"top","toNode":"3dba112507a1baa0","toSide":"bottom"},
+		{"id":"83fba0d8f733573f","fromNode":"658516bfe03729bd","fromSide":"right","toNode":"b29be25de788fb88","toSide":"bottom"},
+		{"id":"1b4b4c0419c5a33e","fromNode":"f5bf03d86b84385e","fromSide":"bottom","toNode":"658516bfe03729bd","toSide":"left"},
+		{"id":"c22882c4502ec064","fromNode":"8a358ec9855c6b58","fromSide":"top","toNode":"b2c7100ebfa3f150","toSide":"bottom"},
+		{"id":"2051261872a4cede","fromNode":"b1ce528764166fbe","fromSide":"right","toNode":"658516bfe03729bd","toSide":"left"},
+		{"id":"4eaa08f267add4a2","fromNode":"1556924cf9d9cb73","fromSide":"top","toNode":"658516bfe03729bd","toSide":"bottom"},
+		{"id":"9b1336d493fc8964","fromNode":"e2789b6f2245261a","fromSide":"top","toNode":"658516bfe03729bd","toSide":"bottom"},
+		{"id":"414954f96e6f4dd4","fromNode":"658516bfe03729bd","fromSide":"right","toNode":"495cba454880ae34","toSide":"left"},
+		{"id":"2d003a30e561010c","fromNode":"a937c0a79f8c5d3b","fromSide":"right","toNode":"23a18b2cd1a74191","toSide":"left"},
+		{"id":"b0c2161b3f528f84","fromNode":"a937c0a79f8c5d3b","fromSide":"top","toNode":"da4f3192ee8f0eb6","toSide":"bottom"},
+		{"id":"017515816b5da764","fromNode":"a937c0a79f8c5d3b","fromSide":"top","toNode":"eca256e572110105","toSide":"left"},
+		{"id":"effcddc2c31811e0","fromNode":"bc9620e85030660b","fromSide":"top","toNode":"a937c0a79f8c5d3b","toSide":"bottom"}
+	]
+}

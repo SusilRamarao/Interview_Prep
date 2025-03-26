@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"92fe07757be5377e","type":"text","text":"C++ Revision","x":-193,"y":-175,"width":250,"height":60},
+		{"id":"a0f349f156889455","type":"text","text":"Locks and Semaphores","x":-455,"y":-380,"width":250,"height":60},
+		{"id":"f73b42b819b87509","type":"text","text":"Atomic Operation\nwhich manages storage (serialized) and locking mechanism on it's own","x":-140,"y":-441,"width":321,"height":123},
+		{"id":"9c983c29a6e34a35","type":"text","text":"Different Smart Pointers - Unique, Shared and Weak","x":181,"y":-295,"width":279,"height":90},
+		{"id":"0d135a71ba1e0bda","type":"text","text":"Mutex and Thread","x":-504,"y":-501,"width":250,"height":60},
+		{"id":"1f6d435c1468677c","type":"text","text":"Thread Pooling and Mutex Pooling\nPrearrange threads to be initialized and used whenever is needed. This avoids initializing a thread every time(in turn memory creation is avoided)","x":181,"y":-145,"width":379,"height":175},
+		{"id":"cefcd22ff37c512b","type":"text","text":"Types of C++ 11, 14, 22","x":-105,"y":18,"width":250,"height":60},
+		{"id":"37b44078d984ba66","type":"text","text":"Parallel Processing","x":-629,"y":-280,"width":250,"height":60},
+		{"id":"323ad00dcf9c2fc8","type":"text","text":"Basics of Inter Process Communication (IPC) - TCP, IPC shared memory, Semaphore","x":-754,"y":-192,"width":375,"height":95},
+		{"id":"f0a61f0fa46c8ca9","type":"text","text":"How parallel computing is achieved using thread and mutex (Example Xilshark processing parallelization)","x":-684,"y":-52,"width":361,"height":82},
+		{"id":"dd67effc7ee2f1d9","type":"file","file":"AMD_Interview/Detect a crash using memory details.md","x":-566,"y":120,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"27c114c142cce824","fromNode":"92fe07757be5377e","fromSide":"left","toNode":"37b44078d984ba66","toSide":"right"},
+		{"id":"b51c70ab2b066c63","fromNode":"92fe07757be5377e","fromSide":"top","toNode":"a0f349f156889455","toSide":"bottom"},
+		{"id":"c277a8786dd4d3b6","fromNode":"92fe07757be5377e","fromSide":"top","toNode":"f73b42b819b87509","toSide":"bottom"},
+		{"id":"2c4b0df7257c3aaa","fromNode":"92fe07757be5377e","fromSide":"right","toNode":"9c983c29a6e34a35","toSide":"left"},
+		{"id":"488ef752b5abec71","fromNode":"a0f349f156889455","fromSide":"top","toNode":"0d135a71ba1e0bda","toSide":"bottom"},
+		{"id":"f1829e6f20653cdc","fromNode":"92fe07757be5377e","fromSide":"right","toNode":"1f6d435c1468677c","toSide":"left"},
+		{"id":"02b58b5ecadeadf9","fromNode":"cefcd22ff37c512b","fromSide":"top","toNode":"92fe07757be5377e","toSide":"bottom"},
+		{"id":"a1d2f6af839078e0","fromNode":"323ad00dcf9c2fc8","fromSide":"right","toNode":"92fe07757be5377e","toSide":"left"},
+		{"id":"9535382006799a34","fromNode":"f0a61f0fa46c8ca9","fromSide":"right","toNode":"92fe07757be5377e","toSide":"left"},
+		{"id":"e1f1f552a59cc7e1","fromNode":"dd67effc7ee2f1d9","fromSide":"top","toNode":"92fe07757be5377e","toSide":"bottom"}
+	]
+}
