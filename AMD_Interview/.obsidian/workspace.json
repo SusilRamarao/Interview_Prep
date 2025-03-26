@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "ccf9dc5bab345707",
+    "type": "split",
+    "children": [
+      {
+        "id": "44156b6709cbaf3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc08b674c1630621",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "C++.canvas",
+                "viewState": {
+                  "x": -80.5,
+                  "y": 9.5,
+                  "zoom": -1.26391098006282
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "C++"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6eba840cce5e3f9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "15721d56619bdd7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "617a5b1d7a13c4d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c9b39c3dbc22abc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9b4623ce93efe817",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8100888daeef9da5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0904888bd6f82f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38b3bbce616622f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design Principles.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Design Principles"
+            }
+          },
+          {
+            "id": "cb9b3a0eedc4a4d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design Principles.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Design Principles"
+            }
+          },
+          {
+            "id": "35fd516e7b3bc586",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25110c35942eea8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Design Principles.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Design Principles"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cc08b674c1630621",
+  "lastOpenFiles": [
+    "Coding problem patterns.canvas",
+    "Design Principles.canvas",
+    "TODO.canvas",
+    "AI under the hood.md",
+    "Detect_Memory_leaks_and_Free_them.jpg",
+    "C++.canvas",
+    "Detect a crash using memory details.md"
+  ]
+}
