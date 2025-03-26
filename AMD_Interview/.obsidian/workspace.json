@@ -15,9 +15,9 @@
               "state": {
                 "file": "C++.canvas",
                 "viewState": {
-                  "x": -80.5,
-                  "y": 9.5,
-                  "zoom": -1.26391098006282
+                  "x": -9.222508738190669,
+                  "y": 10.358759694537667,
+                  "zoom": -0.03129500367850549
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -173,12 +173,13 @@
   },
   "active": "cc08b674c1630621",
   "lastOpenFiles": [
-    "Coding problem patterns.canvas",
     "Design Principles.canvas",
+    "Interview",
+    "Coding problem patterns.canvas",
+    "C++.canvas",
     "TODO.canvas",
     "AI under the hood.md",
     "Detect_Memory_leaks_and_Free_them.jpg",
-    "C++.canvas",
     "Detect a crash using memory details.md"
   ]
 }

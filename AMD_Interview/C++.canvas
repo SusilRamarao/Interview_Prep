@@ -8,7 +8,7 @@
 		{"id":"1f6d435c1468677c","type":"text","text":"Thread Pooling and Mutex Pooling\nPrearrange threads to be initialized and used whenever is needed. This avoids initializing a thread every time(in turn memory creation is avoided)","x":181,"y":-145,"width":379,"height":175},
 		{"id":"cefcd22ff37c512b","type":"text","text":"Types of C++ 11, 14, 22","x":-105,"y":18,"width":250,"height":60},
 		{"id":"37b44078d984ba66","type":"text","text":"Parallel Processing","x":-629,"y":-280,"width":250,"height":60},
-		{"id":"323ad00dcf9c2fc8","type":"text","text":"Basics of Inter Process Communication (IPC) - TCP, IPC shared memory, Semaphore","x":-754,"y":-192,"width":375,"height":95,"color":"1"},
+		{"id":"323ad00dcf9c2fc8","type":"text","text":"Basics of Inter Process Communication (IPC) - TCP, IPC shared memory, Semaphore","x":-754,"y":-192,"width":375,"height":95,"color":"4"},
 		{"id":"dd67effc7ee2f1d9","type":"file","file":"Detect a crash using memory details.md","x":-566,"y":120,"width":400,"height":400},
 		{"id":"f0a61f0fa46c8ca9","type":"text","text":"How parallel computing is achieved using thread and mutex (Example Xilshark processing parallelization)","x":-720,"y":-52,"width":354,"height":100,"color":"3"},
 		{"id":"e10181f73708f0d9","type":"text","text":"https://chatgpt.com/share/67e2c4f9-8c1c-8011-94d0-acdd38527839","x":260,"y":120,"width":333,"height":110}
