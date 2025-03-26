@@ -16,11 +16,11 @@
 		{"id":"67d867abf3dbfcaa","type":"text","text":"NSight","x":-195,"y":52,"width":250,"height":60},
 		{"id":"32269ecebdb23c57","type":"text","text":"Basics Of Vulkan and OpenGL","x":-70,"y":197,"width":264,"height":79},
 		{"id":"b6196930df2d9fad","type":"text","text":"What is Profiling","x":-505,"y":-760,"width":250,"height":60},
-		{"id":"46af9a85eb1fd263","x":-630,"y":-600,"width":250,"height":60,"type":"text","text":"Area of optimization"},
-		{"id":"085f488b78af362a","x":-154,"y":-760,"width":250,"height":60,"type":"text","text":"Analyze performace of software applications"},
-		{"id":"9f42ea8673836d10","x":-165,"y":-680,"width":299,"height":50,"type":"text","text":"How to Identify bottlenecks"},
-		{"id":"47ec6690c143c43d","x":-876,"y":-680,"width":250,"height":60,"type":"text","text":"Profiling, Tracing and instrumentation"},
-		{"id":"1f567933f5d72442","x":-876,"y":-820,"width":250,"height":60,"type":"text","text":"Performance analysis algorithm? Know how"}
+		{"id":"46af9a85eb1fd263","type":"text","text":"Area of optimization","x":-630,"y":-600,"width":250,"height":60},
+		{"id":"085f488b78af362a","type":"text","text":"Analyze performace of software applications","x":-154,"y":-760,"width":250,"height":60},
+		{"id":"9f42ea8673836d10","type":"text","text":"How to Identify bottlenecks","x":-165,"y":-680,"width":299,"height":50},
+		{"id":"47ec6690c143c43d","type":"text","text":"Profiling, Tracing and instrumentation","x":-876,"y":-680,"width":250,"height":60},
+		{"id":"1f567933f5d72442","type":"text","text":"Performance analysis algorithm? Know how","x":-876,"y":-820,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"749b74be30a95274","fromNode":"39720c1758b3f368","fromSide":"left","toNode":"640430a9547a21a0","toSide":"right"},
